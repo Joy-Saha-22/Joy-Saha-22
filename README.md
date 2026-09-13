@@ -80,7 +80,7 @@ A role-based MERN task manager with live, real-time collaboration.
 - Added real-time task sync across every dashboard using **Socket.io** — status, checklist, and assignment changes reflect instantly for all assigned users, no refresh needed
 - **Stack:** React, Tailwind CSS, Node.js, Express, MongoDB, Socket.io, JWT
 
-#### 🔗 AI Resume Builder
+#### 🔗 [AI Resume Builder](https://ai-resume-builder-nine-tau.vercel.app/)
 An AI-powered resume tool that tailors resumes to a specific job description.
 - Analyzes resume content against a job description using the **OpenRouter API** to generate a tailored rewrite and a shortlisting probability score
 - Built a resume scoring system that analyzes job fit and highlights skill gaps
