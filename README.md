@@ -108,7 +108,7 @@ An AI-powered resume tool that tailors resumes to a specific job description.
 
 ### 🎓 Education
 
-- **B.C.A.**, University Institute of Computer Science and Applications, RDVV, Jabalpur — CGPA 7.6 *(2023 – 2026)*
+- **BCA**, University Institute of Computer Science and Applications, RDVV, Jabalpur — CGPA 7.6 *(2023 – 2026)*
 - **12th**, St. Aloysius Sr. Sec School *(2023)*
 
 ---
