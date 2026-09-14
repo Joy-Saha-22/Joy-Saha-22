@@ -16,7 +16,6 @@
 - 🛠️ I build MERN applications end-to-end — from database schema to deployment — including a real-time collaborative platform and an AI-powered product
 - 🏆 1st Position winner, **Hack and Make Hackathon** (CODE IT track), 2026
 - 📍 Based in Jabalpur, India
-- ⚡ Currently sharpening my skills in real-time systems (Socket.io), authentication/authorization patterns, and clean API design
 
 ---
 
