@@ -13,7 +13,7 @@
 
 - 🎓 BCA student at **University Institute of Computer Science and Applications, RDVV, Jabalpur** (2023–2026), CGPA **7.6**
 - 💻 Full-stack developer with hands-on experience across **two internships**, building production backend APIs and React UIs
-- 🛠️ I build MERN applications end-to-end — from database schema to deployment — including a real-time collaborative platform and an AI-powered product
+- 🛠️ I built MERN applications end-to-end — from database schema to deployment — including a real-time collaborative platform and an AI-powered product
 - 🏆 1st Position winner, **Hack and Make Hackathon** (CODE IT track), 2026
 - 📍 Based in Jabalpur, India
 
