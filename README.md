@@ -15,7 +15,6 @@
 - 💻 Full-stack developer with hands-on experience across **two internships**, building production backend APIs and React UIs
 - 🛠️ I built MERN applications end-to-end — from database schema to deployment — including a real-time collaborative platform and an AI-powered product
 - 🏆 1st Position winner, **Hack and Make Hackathon** (CODE IT track), 2026
-- 📍 Based from Jabalpur, India
 
 ---
 
