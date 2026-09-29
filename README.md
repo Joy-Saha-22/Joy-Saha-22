@@ -88,13 +88,13 @@ An AI-powered resume tool that tailors resumes to a specific job description.
 
 ### 💼 Experience
 
-**Full-Stack Web Developer Intern** — Starial Private Limited *(Nov 2025 – Jan 2026)*
-- Built 20 REST APIs and React.js UI across product, dashboard, order, and vendor management modules
-- Refactored 12 components and implemented JWT-based authentication with role-based access
-
 **Node.js Intern** — Cryptch IT Solutions *(April 2026 – Jul 2026)*
 - Developed and maintained backend applications, building 25+ REST APIs with JWT-based authentication and authorization
 - Integrated MongoDB using Mongoose and tested APIs with Postman to validate backend functionality
+
+**Full-Stack Web Developer Intern** — Starial Private Limited *(Nov 2025 – Jan 2026)*
+- Built 20 REST APIs and React.js UI across product, dashboard, order, and vendor management modules
+- Refactored 12 components and implemented JWT-based authentication with role-based access
 
 ---
 
