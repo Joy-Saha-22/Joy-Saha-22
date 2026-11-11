@@ -13,7 +13,7 @@
 
 - 🎓 BCA student at **University Institute of Computer Science and Applications, RDVV, Jabalpur** (2023–2026), CGPA **7.6**
 - 💻 Full-stack developer with hands-on experience across **two internships**, building production backend APIs and React UIs
-- 🛠️ I built MERN applications end-to-end — from database schema to deployment — including a real-time collaborative platform and an AI-powered product
+- 🛠️ I built MERN applications end-to-end — from database schema to deployment — including a feature flag and A/B testing platform and an AI-powered product
 - 🏆 1st Position winner, **Hack and Make Hackathon** (CODE IT track), 2026
 
 ---
@@ -72,17 +72,17 @@
 
 ### 🛠️ Projects
 
-#### 🔗 [Feature Flag and A/B Testing Platform]
+#### 🔗 [Feature Flag and A/B Testing Platform](https://flag-kit.vercel.app/)
 A role-based MERN task manager with live, real-time collaboration.
 - Built a full-stack feature flag and A/B testing platform with a custom evaluation engine for percentage rollouts and targeting, project-scoped SDK keys, and JWT authentication, backed by 60+ tests.
 - Delivered real-time flag updates to client apps over Server-Sent Events with Redis-cached evaluation, and built an event tracking pipeline with a React dashboard to measure A/B test results; hardened the API with tiered rate limiting, strict input validation and safe error handling. 
 - **Stack:** React, Tailwind CSS, Node.js, Express.js, MongoDB, Redis, Docker
 
-#### 🔗 [AI Resume Builder](https://ai-resume-builder-nine-tau.vercel.app/)
+#### 🔗 [AI Code Reviewer](https://ai-code-reviewer-ten-sooty.vercel.app/)
 An AI-powered resume tool that tailors resumes to a specific job description.
-- Analyzes resume content against a job description using the **OpenRouter API** to generate a tailored rewrite and a shortlisting probability score
-- Built a resume scoring system that analyzes job fit and highlights skill gaps
-- **Stack:** React, Tailwind CSS, Node.js, Express, MongoDB, JWT, OpenRouter API
+- Built an AI-powered code review tool that analyzes submitted code and returns structured feedback on bugs, readability and improvements, rendered as formatted Markdown in the UI. 
+- Developed a React code editor with live syntax highlighting (Highlight.js) for multiple languages, and an Express API with a dedicated AI service layer that handles prompt construction and OpenAI requests. 
+- **Stack:** React, Node.js, Express.js, OpenAI API, Highlight.js
 
 ---
 
