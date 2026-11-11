@@ -72,12 +72,11 @@
 
 ### 🛠️ Projects
 
-#### 🔗 [Collaborative Task Management System](https://collaborative-task-manager-drab.vercel.app/)
+#### 🔗 [Feature Flag and A/B Testing Platform]
 A role-based MERN task manager with live, real-time collaboration.
-- Built 20+ REST APIs and the React.js UI across product, dashboard, order, and vendor management modules
-- Implemented role-based access control (Admin/Member) with JWT authentication and authorization
-- Added real-time task sync across every dashboard using **Socket.io** — status, checklist, and assignment changes reflect instantly for all assigned users, no refresh needed
-- **Stack:** React, Tailwind CSS, Node.js, Express, MongoDB, Socket.io, JWT
+- Built a full-stack feature flag and A/B testing platform with a custom evaluation engine for percentage rollouts and targeting, project-scoped SDK keys, and JWT authentication, backed by 60+ tests.
+- Delivered real-time flag updates to client apps over Server-Sent Events with Redis-cached evaluation, and built an event tracking pipeline with a React dashboard to measure A/B test results; hardened the API with tiered rate limiting, strict input validation and safe error handling. 
+- **Stack:** React, Tailwind CSS, Node.js, Express.js, MongoDB, Redis, Docker
 
 #### 🔗 [AI Resume Builder](https://ai-resume-builder-nine-tau.vercel.app/)
 An AI-powered resume tool that tailors resumes to a specific job description.
