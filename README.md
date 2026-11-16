@@ -11,9 +11,8 @@
 
 ### 🚀 About Me
 
-- 🎓 BCA student at **University Institute of Computer Science and Applications, RDVV, Jabalpur** (2023–2026), CGPA **7.6**
 - 💻 Full-stack developer with hands-on experience across **two internships**, building production backend APIs and React UIs
-- 🛠️ I built MERN applications end-to-end — from database schema to deployment — including a feature flag and A/B testing platform, an API Rate Limiter and an AI-powered product
+- 🛠️ I built MERN applications end-to-end — from database schema to deployment — including a Feature flag and A/B testing platform, an API Rate Limiter and an AI-powered product
 - 🏆 1st Position winner, **Hack and Make Hackathon** (CODE IT track), 2026
 
 ---
@@ -65,7 +64,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
   <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white">
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white">
 </p>
 
 ---
@@ -109,5 +107,5 @@
 
 ### 🎓 Education
 
-- **BCA**, University Institute of Computer Science and Applications, RDVV, Jabalpur — CGPA 7.6 *(2023 – 2026)*
+- **BCA**, University Institute of Computer Science and Applications, RDVV, Jabalpur  *(2023 – 2026)*
 - **12th**, St. Aloysius Sr. Sec School *(2023)*
